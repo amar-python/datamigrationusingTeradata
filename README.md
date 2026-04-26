@@ -1,1 +1,1 @@
-# datamigrationusingTeradata
+# datamigration usingTeradata
